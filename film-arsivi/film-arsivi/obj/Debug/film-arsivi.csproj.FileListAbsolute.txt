@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\bin\Debug\film-arsivi.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\bin\Debug\film-arsivi.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\bin\Debug\film-arsivi.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\obj\Debug\film-arsivi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\obj\Debug\film-arsivi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\obj\Debug\film_arsivi.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\obj\Debug\film_arsivi.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\obj\Debug\film-arsivi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\obj\Debug\film-arsivi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\obj\Debug\film-arsivi.csproj.CopyComplete
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\obj\Debug\film-arsivi.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\film-arsivi\film-arsivi\obj\Debug\film-arsivi.pdb
